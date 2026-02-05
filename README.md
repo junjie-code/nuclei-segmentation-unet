@@ -20,3 +20,7 @@
 - predict.py：在测试集上预测
 - train.ipynb：Colab 训练代码及结果记录
 - test_prediction_results/：测试集预测结果示例（左：原图，右：预测细胞核）
+<img width="512" height="256" alt="test_sample_1_1cdbfee1" src="https://github.com/user-attachments/assets/256b59d7-1aa6-47ec-a2ad-a683caa20730" />
+<img width="512" height="256" alt="test_sample_2_472b1c5f" src="https://github.com/user-attachments/assets/0c1ab1cd-78f6-4e57-9ac9-607e707ce6b5" />
+<img width="512" height="256" alt="test_sample_4_f5effed2" src="https://github.com/user-attachments/assets/5b4c6113-8c02-4cc9-ab98-c221f243300c" />
+<img width="512" height="256" alt="test_sample_3_da6c5934" src="https://github.com/user-attachments/assets/60ff6a3c-a8b9-4919-ae40-188cf94dbf5c" />
