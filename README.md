@@ -16,7 +16,7 @@
 （数据体积大，不上传到仓库）
 
 ### 文件说明
-model.py：U-Net 模型定义
-predict.py：在测试集上预测
-train.ipynb：Colab 训练代码及结果记录
-test_prediction_results/：测试集预测结果示例（左：原图，右：预测细胞核）
+- model.py：U-Net 模型定义
+- predict.py：在测试集上预测
+- train.ipynb：Colab 训练代码及结果记录
+- test_prediction_results/：测试集预测结果示例（左：原图，右：预测细胞核）
