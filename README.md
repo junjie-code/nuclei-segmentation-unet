@@ -7,7 +7,7 @@
 - 预处理：OpenCV（灰度化 + CLAHE + 中值滤波）
 - 模型： U-Net
 - 训练：Google Colab + T4 GPU，20 epochs，Loss 降到 0.086
-- 效果：在测试集（未见过数据）上能较好地分割细胞核
+- 效果：在测试集上能较好地分割细胞核
 
 ### 数据获取
 1. 去 Kaggle 下载数据集：https://www.kaggle.com/c/data-science-bowl-2018/data
